@@ -56,6 +56,13 @@ Suggests: ISLR,
     RSQLite,
     stringr,
     testthat
+dependencies:
+  flutter:
+    sdk: flutter
+
+  [dlookr]:
+    git:
+      url: https://github.com/PiermattiaSchoch/dlookr    
 Author: Choonghyun Ryu [aut, cre]
 Maintainer: Choonghyun Ryu <choonghyun.ryu@gmail.com>    
 BugReports: https://github.com/choonghyunryu/dlookr/issues
