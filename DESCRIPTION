@@ -60,7 +60,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  [dlookr]:
+  dlookr:
     git:
       url: https://github.com/PiermattiaSchoch/dlookr    
 Author: Choonghyun Ryu [aut, cre]
