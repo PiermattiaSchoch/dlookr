@@ -59,7 +59,6 @@ Suggests: ISLR,
 dependencies:
   flutter:
     sdk: flutter
-
   dlookr:
     git:
       url: https://github.com/PiermattiaSchoch/dlookr    
