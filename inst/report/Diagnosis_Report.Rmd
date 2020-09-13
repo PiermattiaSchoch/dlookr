@@ -1,7 +1,11 @@
 ---
 title: "Data Quality Diagnosis Report"
-author: "Report by riskwave"
+author: "Report by RiskWave"
 date: "`r Sys.Date()`"
+color:
+  header: "#000"
+  gradient_left: "#e53935"
+  gradient_right: "#f57c00
 output: 
   prettydoc::html_pretty:
     toc: true
